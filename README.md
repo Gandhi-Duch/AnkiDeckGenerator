@@ -1,0 +1,2 @@
+# AnkiDeckGenerator
+anki_deck_generator_excel_to_apk
