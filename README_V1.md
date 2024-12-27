@@ -1,7 +1,6 @@
 # AnkiDeckGenerator
 anki_deck_generator_excel_to_apk
 
-V1
 V1 -> Nécessite un fichier excel à la racine.
 
 Colonne 1 : Question
